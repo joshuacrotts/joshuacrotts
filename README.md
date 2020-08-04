@@ -1,5 +1,5 @@
 
-<h3 style="bold;" align="center">Hello, and welcome to my repo! 👋</h3>
+<h2 style="bold;" align="center">Hello, and welcome to my repo! 👋</h2>
 
 ... more to come later.
 
