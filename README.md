@@ -1,6 +1,5 @@
-<center>
-  ### Hello, and welcome to my repo! 👋
-  </center>
+
+<h1 style="bold;" align="center">Hello, and welcome to my repo! 👋</h1
 
 ... more to come later.
 
