@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/JoshuaCrotts/github-profile-trophy)
 
 <h2 style="bold;" align="center">Hello, and welcome to my repo! 👋</h2>
 
