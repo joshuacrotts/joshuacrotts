@@ -8,7 +8,7 @@
 
 🎮 Other relevant interests are high-performance and parallel computing/processing, embedded software engineering, compiler design, low-level programming (e.g. systems programming), operating systems, and video game design (hence why my major projects are either games or game engines in C and Java!). 
 
-📓 My theoretical computer science interests are in formal (prepositional/predicate/modal) logic, higher-order logic, theory of computation, and algorithm analysis and design with a focus in computer graphics and compression. My graduate algorithm analysis paper, [Binary Space Partitioning - A Focus on Rendering and Compression Algorithms](https://joshuacrotts.us/assets/bsppaper.pdf), where I analyze various methods of compressing graphics with spatial partitioning was of my first introductions to writing a paper of this higher-education caliber. 
+📓 My theoretical computer science interests are in formal (prepositional/predicate/modal) logic, higher-order logic, theory of computation, and algorithm analysis and design with a focus in computer graphics and compression. My graduate algorithm analysis paper, [Binary Space Partitioning - A Focus on Rendering and Compression Algorithms](https://joshuacrotts.us/assets/bsppaper.pdf), where I analyze various methods of compressing graphics with spatial partitioning was one of my first introductions to writing a paper of this higher-education caliber. 
 
 Visit [my website](https://joshuacrotts.us) for more information!
 
