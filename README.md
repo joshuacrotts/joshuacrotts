@@ -10,7 +10,7 @@
 
 📓 My theoretical computer science interests are in formal (prepositional/predicate/modal) logic, higher-order logic, programming language design and implementation, computer science education, compiler design, theory of computation, algorithm analysis, computer graphics, artificial intelligence, and natural language processing. It's all over the place, but that's what I like!
 
-Visit [my website](https://joshuacrotts.us) for more information *not always kept up-to-date*!
+Visit [my website](https://joshuacrotts.us) for more information *(Warning: not always kept up-to-date)*!
 
 <p align="center">
 
