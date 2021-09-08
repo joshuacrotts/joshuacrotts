@@ -4,7 +4,7 @@
 
 📑 I currently research topics in artificial intelligence with a focus on rhetoric, education, and Prolog with [Dr. Nancy L. Green](https://www.uncg.edu/cmp/faculty/nlgreen/). I have three published papers in inductive logic programming, rhetorical device detection, and AI argument scheme education. One paper is currently under review, and I plan to do more independent research.
 
-🎓 In addition to the rhetorical, artificial intelligence-based work, I also have a fondness for computer science education. I am working on my Master's right now with the possibility of continuing into a PhD.
+🎓 In addition to the rhetorical, artificial intelligence-based work, I also have a fondness for computer science education. I am working on my Master's right now with the possibility of continuing into a PhD. I am a graduate teaching assistant for three classes in Fall 2020: two sections of system programming, and one section of database systems.
 
 🎮 Other relevant interests are high-performance and parallel computing/processing, embedded software engineering, compiler design, low-level programming (e.g. systems programming), operating systems, and video game design (hence why my major projects are either games or game engines in C and Java!). 
 
